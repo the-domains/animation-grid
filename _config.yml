@@ -1,7 +1,7 @@
 name: Animation Grid
 favicon: null
 layout_spectrum: 0.93265
-typography_spectrum: 0.5929
+typography_spectrum: 0.09741
 title: An animation grid on The Grid
 cta:
   domain: null
@@ -24,6 +24,6 @@ color:
     - '#DD403A'
   brandStrength: 0
   lightness: 0
-  saturation: 0.8125
-  rhythmicContrast: 0.75
+  saturation: 1
+  rhythmicContrast: 0
 purpose: []
